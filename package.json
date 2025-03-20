@@ -4,9 +4,9 @@
   "description": "A WhatsApp Bot Created By INCONNU BOY BUTTERFLY",
   "main": "index.js",
   "scripts": {
-    "start": "pm2 start index.js --deep-monitoring --attach --name Botname-MD",
-    "stop": "pm2 stop butterfly-MD",
-    "restart": "pm2 restart butterfly-MD"
+    "start": "pm2 start index.js --deep-monitoring --attach --name BUTTERFLY-MD",
+    "stop": "pm2 stop BUTTERFLY-MD",
+    "restart": "pm2 restart BUTTERFLY-MD"
   },
   "dependencies": {
     "@whiskeysockets/baileys": "6.6.0",
