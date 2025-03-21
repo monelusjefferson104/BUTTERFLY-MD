@@ -39,42 +39,6 @@
 3. **Deploy on [`HEROKU`](https://dashboard.heroku.com/new?template=https://github.com/aloneboytech/BUTTERFLY-MD)**
 8. **You can visit Bot whatsapp channel [`BY CLICKING HERE`](https://whatsapp.com/channel/0029Vb5OsKz7dmeeDsoYbz3c) for more**
 9. **All Tutorials Are `COMING SOON`**
-   ##
-   
-10 . deploys on workflows 
-**
-name: Node.js CI
-
-on:
-  push:
-    branches:
-      - main
-  pull_request:
-    branches:
-      - main
-
-jobs:
-  build:
-    runs-on: ubuntu-latest
-
-    strategy:
-      matrix:
-        node-version: [20.x]
-
-    steps:
-      - name: Checkout repository
-        uses: actions/checkout@v3
-
-      - name: Set up Node.js
-        uses: actions/setup-node@v3
-        with:
-          node-version: ${{ matrix.node-version }}
-
-      - name: Install dependencies
-        run: npm install
-
-      - name: Start application
-        run: npm start
 
 ##
 <a href='https://alone-boy-session.onrender.com' target="_blank">
