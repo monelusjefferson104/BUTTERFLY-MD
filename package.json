@@ -1,7 +1,7 @@
 {
-  "name": "BUTTERFLY MD",
+  "name": "BUTTERFLY-MD",
   "version": "3.0.0",
-  "description": "A WhatsApp Bot Created By INCONNU BOY BUTTERFLY",
+  "description": "A WhatsApp Bot Created By ©INCONNU BOY BUTTERFLY",
   "main": "index.js",
   "scripts": {
     "start": "pm2 start index.js --deep-monitoring --attach --name BUTTERFLY-MD",
