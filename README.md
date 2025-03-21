@@ -51,26 +51,6 @@
 
       ALONE-MD whatsapp bot is an easy to use whatsapp robot.   |  alone boy tech whatsapp bot
 # 
-# 
-<a><img src='https://i.imgur.com/LyHic3i.gif'/></a><a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
-
-* [🧑‍💻 Follow ALONE-MD Whatsapp Channel🧑‍💻](https://whatsapp.com/channel/0029VapPYSCHQbS1HWZr0y07)
-
-
-* [✅ Join Public Group ⚡](https://chat.whatsapp.com/CZ8j4SHAEgyJfvioXOgo0O)
-
-  <a><img src='https://i.imgur.com/LyHic3i.gif'/></a><a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
-
-      ⚠️ We are not responsible for any inconvenience caused by your mistakes!
-  
-## 
-
-- *ALONE-MD is not made by `WhatsApp Inc.` Sometimes or misusing the bot might `ban` your `WhatsApp account!`*
-- *In that case, I'm not responsible for banning your account.*
-- *Use ALONE-MD at your own risk by keeping this warning in mind.*
-  
-  #### ```TOTAL PROFILE VIEWS 🧚```
-![Visitor Count](https://profile-counter.glitch.me/DeeCeeXxx/count.svg)
 
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a><a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 
