@@ -7,7 +7,7 @@
 <u>⚡ A simple WhatsApp User Bot Coded By david Cyril (thanks to david Cyril) alone boy tech ⚡</u>
 </p>
 <p align="center">
-<img src="https://i.imgur.com/LEe0hSA.jpeg"/>       
+<img src="https://files.catbox.moe/3khlhm.jpg"/>       
 <p align="center">
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=EB+Garamond&weight=800&size=28&duration=4000&pause=1000&random=false&width=435&lines=+•__I'M+ALONE+MD__•;MULTI-DEVICE+WHATSAPP+BOT;DEVELOPED+BY+ALONE+BOY;RELEASED+DATE+18%2F6%2F2024." alt="Typing SVG" /></a>
 </p> 
