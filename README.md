@@ -31,7 +31,7 @@
 
 2. Obtain a bot session: 
 
-<a href='https://inconnu-session-l4lp.onrender.com' target="_blank">
+<a href='https://inconnu-session-1.onrender.com' target="_blank">
     <img alt='SCAN QR' src='https://img.shields.io/badge/Scan_qr-100000?style=for-the-badge&logo=scan&logoColor=white&labelColor=black&color=black'/>
 </a>
 
@@ -39,9 +39,48 @@
 3. **Deploy on [`HEROKU`](https://dashboard.heroku.com/new?template=https://github.com/aloneboytech/BUTTERFLY-MD)**
 8. **You can visit Bot whatsapp channel [`BY CLICKING HERE`](https://whatsapp.com/channel/0029Vb5OsKz7dmeeDsoYbz3c) for more**
 9. **All Tutorials Are `COMING SOON`**
+10. - **Github Deployement**
+
+  1. Fork The Repo
+  2. Edit the file config.js 
+  3. create a new file `.github/workflows/deploy.yml` and put this content in :
+
+```yml
+name: Node.js CI
+
+on:
+  push:
+    branches:
+      - main
+  pull_request:
+    branches:
+      - main
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    strategy:
+      matrix:
+        node-version: [20.x]
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v3
+
+      - name: Set up Node.js
+        uses: actions/setup-node@v3
+        with:
+          node-version: ${{ matrix.node-version }}
+
+      - name: Install dependencies
+        run: npm install
+
+      - name: Start application
+        run: npm start
 
 ##
-<a href='https://alone-boy-session.onrender.com' target="_blank">
+<a href='https://inconnu-session-1.onrender.com' target="_blank">
     <img alt='PAIR CODE' src='https://img.shields.io/badge/Scan_qr-100000?style=for-the-badge&logo=scan&logoColor=white&labelColor=Blue&color=Blue'/>
 </a>
 
